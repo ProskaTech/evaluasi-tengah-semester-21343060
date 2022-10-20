@@ -5,4 +5,4 @@ pada soal pertama diminta untuk membuat pola love dengan angka yang ditampilkan 
 
 pada soal kedua diminta untuk membuat pola segitiga sama sisi yang dimana segitiga normal dan terbalik serta penentuan bentuk tanda yang sudah ditentukan yaitu tanda pagar dan tanda bintang dengan baris yang kita inputkan sendiri dengan metode scan serta menggunakan perintah for dengan metode perulangan bersarang.
 
-pada soal ketiga kita disuruh menentukan bilangan positif, negatif atau netral dengan mengunakan JOptionPane dengan menggunakan metode if, else if dan else.
+pada soal ketiga kita disuruh menentukan bilangan positif, negatif atau netral (0) dengan mengunakan JOptionPane dengan menggunakan metode if, else if dan else.
